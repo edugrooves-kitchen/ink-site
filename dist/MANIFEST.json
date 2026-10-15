@@ -1,0 +1,30 @@
+{
+  "site": "Ink & Inference",
+  "sourceCommit": "cb8c3a114ae4b69a80ee0926d96f5049c61eee5e",
+  "files": {
+    "assets/ccip-DdM507e-.js": {
+      "sha256": "19b7d8ebd30d354b71f55639382a38cf257f58dcb4deba5260b7801226eb82a7",
+      "bytes": 2887
+    },
+    "assets/site-By15Q-fC.css": {
+      "sha256": "ed462720e271c346fd84d096390818ec0dd787f994bd433eeac8d15d0f0d1ac9",
+      "bytes": 103671
+    },
+    "assets/site-CMwCikkV.js": {
+      "sha256": "2856cafd3a8c3a50479e38229475e055b63b03019ad62c8a52260803b108f46f",
+      "bytes": 775683
+    },
+    "favicon.svg": {
+      "sha256": "8ffbde9092b1fa4de97c9481b76f518b131268c82e7c555041925225b1dab6e0",
+      "bytes": 163
+    },
+    "index.html": {
+      "sha256": "ef617054b4db257808c554ef99628c3b15bee8055f58129ca65064cbdd890a02",
+      "bytes": 1397
+    },
+    "robots.txt": {
+      "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95",
+      "bytes": 23
+    }
+  }
+}
