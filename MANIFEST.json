@@ -1,6 +1,6 @@
 {
   "site": "Ink & Inference",
-  "sourceCommit": "33e998119b668edb80e5dded7d53c955f66d81e0",
+  "sourceCommit": "3e477930c4978428f0b408fba74f3a512761af3e",
   "files": {
     "assets/ccip-BNu-6Wzl.js": {
       "sha256": "c7719e13ff8e0896b5004efbcf8f8da75e09ddcf91e8613f6f3775972683fd41",
@@ -8027,8 +8027,8 @@
       "bytes": 163
     },
     "index.html": {
-      "sha256": "4a70e8aa86bd1714de4f0ba7f04b0be919e2f56190d6cd643a07546e0155fa19",
-      "bytes": 1323
+      "sha256": "a73d01d5b84afb696d2b945b596ca15ebdca1fc747851a4aff706bce8b211cf3",
+      "bytes": 1923
     },
     "robots.txt": {
       "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95",
