@@ -1,14 +1,14 @@
 {
   "site": "Ink & Inference",
-  "sourceCommit": "0a85fd6d402a64cfe817fe4b04b32c3a0dae356f",
+  "sourceCommit": "33e998119b668edb80e5dded7d53c955f66d81e0",
   "files": {
-    "assets/ccip-DNc0vFt-.js": {
-      "sha256": "8a950c12627d881a0e10b6c5c05086811e52419a5e140665b137c279bb9a8cd9",
+    "assets/ccip-BNu-6Wzl.js": {
+      "sha256": "c7719e13ff8e0896b5004efbcf8f8da75e09ddcf91e8613f6f3775972683fd41",
       "bytes": 2887
     },
-    "assets/site-BW_G1oOi.js": {
-      "sha256": "df14a7fe8dc2a39c5b39faccd897a7f7823440ee653f45bea39b96a82842afa8",
-      "bytes": 804709
+    "assets/site-8b-qGipA.js": {
+      "sha256": "80d462fda24be83ac4c697745daa097ec07fcf77dbab49c446f45b783b2ec6c5",
+      "bytes": 804721
     },
     "assets/site-BYlGVrGy.css": {
       "sha256": "59a763e9ed37f7a68db456f4d78d67237186bcd58a153f1f0534fe5a4ac2a8e3",
@@ -8027,7 +8027,7 @@
       "bytes": 163
     },
     "index.html": {
-      "sha256": "dec8c1dfed72200c70096eca26c063b2ff9cd630284b7f6be9ca451c9ee12dd6",
+      "sha256": "4a70e8aa86bd1714de4f0ba7f04b0be919e2f56190d6cd643a07546e0155fa19",
       "bytes": 1323
     },
     "robots.txt": {
